@@ -12,7 +12,6 @@ pnpm-lock.yaml
 # Build Outputs
 dist/
 build/
-www/
 
 # Logs
 npm-debug.log*
